@@ -1,0 +1,24 @@
+ pour voir les solution de warchall
+tout d'abord en faits ke command ls pour voir on n'est ou
+puis dans /home/level est il y a beaucoup d fichier là te dont.
+Ensuit,cat 00_welcome aprés fait "ls" il y a un dossier README.md et font "ls"
+est voila .Toujours comme ça les fichier et dossier suivant .mais il ya le cas eccptionnele
+pour les dossier chache qui se commence par uo point ;et pour ça en utilise le commmand "ls -al"
+.Alors pour la suite  voicie les comma,d utiliser:cd..pour revenir sur les fichier juste au
+dessue ,puis,cd level101 ,cd 01_choice_tree,ls ,cat README.md ,cat blue ;ls ,cat jedi.md,
+cd jedi .md ,ls ,cd green , ls-al ,cat ,cat README.md ,ls-a , cd .. et encore un commmande cd ..
+aprés ls _al ,cd blue et ls _al pas la tout seplinment.cd hats et ls -al ,cd .. ,cd black
+ls _al ,eet en faits la meme pour les autre dossier.pour le doosier "jedie"font ls _al y à rien
+alors en entre dans le dossier sits "cd sith ,la -al".Parelli pour le doosier PATH
+"cat PATH.path ,cd .." encore pour le greeen "cd green ,ls _al ,cat solution ,cd solution ,ls,
+cd patience,encore ls -al ,cat SOLUTION.txt puis ls et c'est fini pour cet partie
+et en fait la meme chose cd /home/level puis ls -al et cd 02 ,ls cd /home/lvel et ls en revenoir
+sur cd 02 encore ls puis cat document ,cd document,ls ,faisant ls lettre.txt, cat lettre.txt
+y a rien cd .. ,cd photos, ls parraille comme les autre dosiier ou fichier ,cat thumbnails 
+cd .. et en cd 03 ls,cd ..
+pour cd 04_kwisatz puis ls et cat README.nfo et cd ..
+en prend de tout le debut cd /home/level et aprés ls pour redarder les autre fichier 
+cd 07_tropical_friuts ensuit ls et cat README.txt puis cat complie.sh en eface tous "clear"
+en ls pour voir les dossier ,puis cat level7.c et il y a une solution et faire le cat
+"cat solution .txt" cd solution.txt et faire ls _al ,cd README.txt et file 07 cd .. parceque 
+y a rien  
